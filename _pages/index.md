@@ -11,22 +11,7 @@ permalink: /home
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-
-
-
-
-
-
-
-
-
-<style>
-hr {
-  width: 100%;
-  border: 0;
-  height: 1px;
-  }
-  
+  <style>
   .wrapper {
     max-width: 46em;
   }
