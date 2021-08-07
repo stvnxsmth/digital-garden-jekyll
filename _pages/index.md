@@ -20,9 +20,13 @@ permalink: /home
 
 
 
-
-
 <style>
+hr {
+  width: 100%;
+  border: 0;
+  height: 1px;
+  }
+  
   .wrapper {
     max-width: 46em;
   }
