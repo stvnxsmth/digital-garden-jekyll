@@ -2,7 +2,7 @@
 layout: page
 title: Home
 id: home
-permalink: /Home
+permalink: /home
 ---
 
 # Welcome! 🌱
@@ -13,6 +13,7 @@ hello world
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
+[[About]]
 
 <style>
   .wrapper {
