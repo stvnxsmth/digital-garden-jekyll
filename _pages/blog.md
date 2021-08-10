@@ -6,4 +6,4 @@ permalink: /blog
 
 This is my blog page
 
-Test post: [[your-first-note]]
+Test post: [[Your first seed]]
