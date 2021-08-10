@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Home
-id: home
-permalink: /home
+title: index
+id: index
+permalink: /
 ---
 
 # Welcome! 🌱
