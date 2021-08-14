@@ -1,6 +1,7 @@
 ---
-layout: page
 title: We Need to Talk About Talking About Climate Change
+date: 2020-01-30
+page: [[blog]]
 permalink: /blog/talking-about-climate-change
 ---
 ## Introduction
