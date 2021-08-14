@@ -1,10 +1,8 @@
 ---
-title: blog
+title: Blog Index
 permalink: /blog
 ---
+# Posts
 
-This is my blog page
-
-Test post: [[Your first seed]]
-
+## 2020
 [[We Need to Talk About Talking About Climate Change]]
