@@ -1,5 +1,5 @@
 ---
-title: China's Uighur Oppression Shame
+title: China & the Uighers: the makings of a genocide
 permalink: /blog/china-uigher-oppression
 ---
 [[Blog]] Published: November 29, 2019
