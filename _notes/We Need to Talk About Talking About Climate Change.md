@@ -1,9 +1,9 @@
 ---
 title: We Need to Talk About Talking About Climate Change
 permalink: /blog/talking-about-climate-change
-Type: [[blog]]
 ---
-Published: January 30, 2020
+[[Blog]] Published: January 30, 2020
+
 
 ## Introduction
 At Davos this past week, Greta Thunberg addressed the zeitgeist shifting impact of her grassroots climate movement. Far from content, she noted the need for ever greater awareness to be generated. Global attention spiked with the onset of the Australian bushfire crisis and the level of support — financial, logistical, and emotional — could prove a watershed moment in the climate debate. Such devastation is unlikely to be few and far between in the future.

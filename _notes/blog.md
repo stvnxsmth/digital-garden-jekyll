@@ -1,8 +1,8 @@
 ---
-title: Blog Index
+title: Blog
 permalink: /blog
 ---
-# Posts
+## 2021
 
-### 2020
+## 2020
 [[We Need to Talk About Talking About Climate Change]]
