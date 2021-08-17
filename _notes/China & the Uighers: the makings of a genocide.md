@@ -2,7 +2,7 @@
 title: China & the Uighers: the makings of a genocide
 permalink: /blog/china-uigher-oppression
 ---
-[[Blog]] Published: November 29, 2019
+November 29, 2019 | 12 min read | [[Blog]]
 
 
 If I were to ask what the biggest story on the planet right now is how would you respond? Trump’s impeachment? Brexit? Cybertruck?
